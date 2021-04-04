@@ -11,7 +11,10 @@ public class MyGitClass {
 		System.out.println("10.satır eclips");
 		System.out.println("11.satır eclips");
 
-		System.out.println("10. satÄ±r ");
+		System.out.println("10. satır ");
+		
+		
+		System.out.println("17.satır eclips ");
 		
 		
 	}
