@@ -7,6 +7,8 @@ public class MyGitClass {
 		System.out.println("My second commit");
 		System.out.println("My third commit");
 		System.out.println("Uzak sunucudaki kodlarım");System.out.println("merhaba");
+		System.out.println("10. satır ");
+		
 		
 		
 	}
