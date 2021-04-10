@@ -18,6 +18,9 @@ public class MyGitClass {
 		System.out.println("emine branch ");
 		
 		System.out.println("emine branch gecti ");
+
+		System.out.println("emine branch 2 gecti ");
+		
 	}
 
 }
