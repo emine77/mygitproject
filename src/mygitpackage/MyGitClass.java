@@ -17,6 +17,7 @@ public class MyGitClass {
 		System.out.println("17.satýr eclips ");
 		
 		
+		
 	}
 
 }
